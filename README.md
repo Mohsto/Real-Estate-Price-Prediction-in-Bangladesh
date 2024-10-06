@@ -1,0 +1,2 @@
+Project overview
+In this project, I explore a real estate dataset, perform data cleaning, conduct exploratory data analysis (EDA), and build a linear regression model to predict property prices in Bangladesh. The dataset focuses on real estate listings from various cities across Bangladesh, including Dhaka, Chattogram, Cumilla, Narayanganj City, and Gazipur. It provides information on features such as bedrooms, bathrooms, floor area, and their corresponding prices in Bangladeshi Taka (৳). This data was sourced from a real estate website and is available on Kaggle.
